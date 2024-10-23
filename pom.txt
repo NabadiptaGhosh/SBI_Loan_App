@@ -3,6 +3,9 @@ Int a=10
 
 int b=20
 
+Int c=30
+
+
 
 
 
